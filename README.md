@@ -1,6 +1,5 @@
 # vishal-store-sales-analysis
-Sales analysis and interactive Excel dashboard for Vishal Shop Store, including customer insights, product performance, and business KPIs.
-
+📊 Excel Sales Dashboard for Vishal Shop Store — Customer insights, product performance & business KPIs"
 # Vishal Shop Store - Sales Analysis & Dashboard
 
 ## 📌 Overview
@@ -76,11 +75,12 @@ The dashboard answers key business questions and helps in **data-driven decision
 ---
 
 ## 📂 Project Structure
-Vishal-store-sales-analysis/
-│── Vishal shop store.xlsx   # Main dataset + dashboard
-│── README.md                # Documentation
-│── LICENSE                  # License file (MIT)
-│── .gitignore               # Ignore temp/backup files
+  Vishal-store-sales-analysis/
+│── Vishal shop store.xlsx      # Sales dataset with raw data & dashboard
+│── README.md                   # Project documentation
+│── LICENSE                     # License file (MIT)
+│── .gitignore                  # Git ignore rules
+│── dashboard.png               # Dashboard preview image
 
 
 
@@ -108,5 +108,11 @@ Data Analyst | Excel Enthusiast
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
+
+In jurisdictions that recognize copyright laws, the author has dedicated any copyright interest in the software to the public domain.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
