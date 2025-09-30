@@ -75,12 +75,12 @@ The dashboard answers key business questions and helps in **data-driven decision
 ---
 
 ## 📂 Project Structure
-  Vishal-store-sales-analysis/
-│── Vishal shop store.xlsx      # Sales dataset with raw data & dashboard
-│── README.md                   # Project documentation
-│── LICENSE                     # License file (MIT)
-│── .gitignore                  # Git ignore rules
-│── dashboard.png               # Dashboard preview image
+| File Name                          | Description                                 |
+| ---------------------------------- | ------------------------------------------- |
+| `Vishal-store-sales-analysis.xlsx` | Main Excel file with all charts and filters |
+| `dashboard-preview.png`            | Visual preview of the dashboard             |
+
+---
 
 
 
